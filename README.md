@@ -49,9 +49,3 @@ This project uses **Tableau** to analyze Airbnb listing data and provide insight
 ## 📂 Dataset Source
 
 * Airbnb listings dataset (publicly available for data visualization projects).
-
----
-
-👉 Just replace `YOUR_TABLEAU_PUBLIC_LINK_HERE` with the **link to your published Tableau dashboard** (from Tableau Public).
-
-Do you want me to also draft a **pinned GitHub repo description** (short one-liner + CTA) to make your repo stand out?
