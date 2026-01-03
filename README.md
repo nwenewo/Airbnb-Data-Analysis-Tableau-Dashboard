@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project uses **Tableau** to analyze Airbnb listing data and provide insights into pricing trends, demand distribution, and revenue patterns. The dashboard helps identify how location, number of bedrooms, and other factors influence listing performance.
+I used **Tableau** to analyze Airbnb listing data and provide insights into pricing trends, demand distribution, and revenue patterns. The dashboard helps identify how location, number of bedrooms, and other factors influence listing performance.
 
 ## 🎯 Objectives
 
@@ -44,8 +44,7 @@ This project uses **Tableau** to analyze Airbnb listing data and provide insight
 * Prices increase significantly with the number of bedrooms.
 * Certain zip codes (e.g., **98103, 98115, 98133**) have higher average listing prices.
 * Revenue peaked mid-year, with slight dips in the later months.
-* Single-bedroom listings dominate the market but multi-bedroom properties generate higher average prices.
+* Single-bedroom listings dominate the market, but multi-bedroom properties generate higher average prices.
 
 ## 📂 Dataset Source
-
 * Airbnb listings dataset (publicly available for data visualization projects).
